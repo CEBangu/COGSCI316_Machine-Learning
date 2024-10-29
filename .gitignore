@@ -1,0 +1,11 @@
+/TDs
+*.pptx
+/From Statistical Physics to Data-Driven Modelling.pdf
+*.png
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.tex
+*.DS_Store
